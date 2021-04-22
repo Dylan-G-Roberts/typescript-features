@@ -14,10 +14,6 @@ let truths: boolean[] = [true,false,true];
 
 
 // classes
-class Car {
-
-}
-let car: Car = new Car();
 
 // Object literal
 let point: { x: number; y: number } = {
